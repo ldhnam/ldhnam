@@ -1,1 +1,1 @@
-AWS_TOKEN=test_key
+AWS_TOKEN=nam12132323
