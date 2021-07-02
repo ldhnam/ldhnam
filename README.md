@@ -23,7 +23,7 @@ I am a back-end engineer, I love Go, I love learning new technologies.
 
 📫 How to reach me:
 
-<p><a href="https://github.com/ldhnam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ldhnam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/ldhnam95" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://github.com/ldhnam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ldhnam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/ldhnam95" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:namhoai95@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-namhoai95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namhoai95@gmail.com"/></a> 
 </p>
 
 :musical_note: I'm currently listening:
