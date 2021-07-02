@@ -1,7 +1,5 @@
 :wave: Hi! I'm Nam Le. 
 
-![](https://komarev.com/ghpvc/?username=ldhnam&color=blueviolet&style=flat-square)
-
 I am a back-end engineer, I love Go, I love learning new technologies.
 
 **Languages and Tools:**
